@@ -140,7 +140,6 @@ class CreateLatex(Document):
 
                     view_3D.add_caption('3D View')   
         try:
-            print("This file!")
             latex_executable = os.path.abspath("data/ResourceFiles/osdag-latex-env/bin/windows/pdflatex.exe")
             doc.generate_pdf(filename, compiler=latex_executable)
         except:
