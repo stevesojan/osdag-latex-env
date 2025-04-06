@@ -1,6 +1,6 @@
 Osdag Tex Environment
 
-There are 2 files(SectionModeller_Latex.py and reportGenerator_latex.py) and a folder(osdag-latex-env) here which will couple Osdag to its own Tex Environment in osdag-latex-env, completely removing the step of installing a Tex distro for the user.
+There are 2 files(SectionModeller_Latex.py and reportGenerator_latex.py) and a folder(osdag-latex-env) here which when extracted correctly will couple Osdag to its own Tex Environment in osdag-latex-env, completely removing the step of installing a Tex distro for the user.
 
 Here's a list of what must be extracted where:
 
