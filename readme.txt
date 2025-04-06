@@ -2,7 +2,7 @@ Osdag Tex Environment
 
 The attached files in the .zip will couple Osdag to its own Tex Environment in osdag-latex-env, completely removing the step of installing a Tex distro for the user.
 
-There are 3 files in the .zip file. Here's a list of what must be extracted where:
+There are 2 files(SectionModeller_Latex.py and reportGenerator_latex.py) and a folder(osdag-latex-env) here. Here's a list of what must be extracted where:
 
 1) 'osdag-latex-env' must be extracted to osdag/data/ResourceFiles.
 
