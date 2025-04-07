@@ -4,7 +4,7 @@ There are 2 files(SectionModeller_Latex.py and reportGenerator_latex.py) and a f
 
 Here's a list of what must be extracted where:
 
-1) 'osdag-latex-env' must be extracted to osdag/data/ResourceFiles.
+1) 'osdag-latex-env' as an entire folder must be copied & placed in osdag/data/ResourceFiles.
 
 Full path differs user to user, but it generally is:
 C:\Users\User_Name\miniconda3\envs\osdag-env\Lib\site-packages\osdag\data\ResourceFiles
