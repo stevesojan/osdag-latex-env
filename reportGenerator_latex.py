@@ -504,7 +504,7 @@ class CreateLatex(Document):
 
             # Ensure the path is absolute
             latex_executable = os.path.abspath(latex_executable)
-            doc.generate_pdf(filename, compiler=latex_executable)
+            doc.generate_pdf(filename, compiler=latex_executable, clean_tex = False)
         except:
             pass
 
