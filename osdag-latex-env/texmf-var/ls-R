@@ -120,3 +120,6 @@ xelatex.fmt
 xetex.fmt
 
 ./xdvi:
+
+./fonts/pk/ljfour/jknappen/ec:
+ecrm1000.600pk
